@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Main branch edit
+=======
+Feature branch edit
+>>>>>>> feature-branch
+Test line for revert
